@@ -1,5 +1,5 @@
 ___
-# ___My telegram :point_down:___
+# ___My telegram___ :point_down:
 [![мой тг](https://pngicon.ru/file/uploads/telegram.png)](https://t.me/SuperPyDroCh "tap to go")
 ___
 
