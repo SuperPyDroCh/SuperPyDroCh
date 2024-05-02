@@ -1,6 +1,6 @@
 ___
 # ___My telegram___
-[![мой тг](https://pngicon.ru/file/uploads/telegram.png)](https://t.me/SuperPyDroCh)
+[![мой тг](https://pngicon.ru/file/uploads/telegram.png)](https://t.me/SuperPyDroCh "tap to go")
 ___
 
 ### Я начал изучать Python восемнадцатого марта 2024 года
